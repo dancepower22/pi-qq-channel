@@ -1,0 +1,5 @@
+{
+  "_说明": "allowFrom = 允许驱动 pi 的 QQ 用户 openid 列表（单聊）。为空=观察模式：任何人发消息只登记 openid，不执行任何东西。openid 从日志 '📥 [c2c] openid=xxxx' 获取。",
+  "allowFrom": [],
+  "groupAllowFrom": []
+}
